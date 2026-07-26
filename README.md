@@ -1,22 +1,32 @@
 # Fitness-app-UX-Research
 UX Research project for a Fitness App including User Persona and Empathy Map.
 
-# Project Overview
+## Internship Project
+
+This project was completed as part of my UX Design Internship at **[Company Name]**.
+
+## Responsibilities
+- Conducted user research to identify the target audience.
+- Created a detailed User Persona.
+- Developed an Empathy Map to understand user needs, thoughts, feelings, and behaviors.
+- Identified user pain points and design opportunities.
+
+## Project Overview
 
 This project focuses on understanding the needs and challenges of busy office professionals before designing a fitness application.
 
-# Objective
+## Objective
 
 To identify user goals, frustrations, motivations, and behaviors through UX research.
 
-# Deliverables
+## Deliverables
 User Persona
 Empathy Map
 
-# Tools Used
+## Tools Used
 Figma
 
-# Key Insights
+## Key Insights
 Users have limited time for exercise.
 They prefer short and personalized workouts.
 Simple reminders and progress tracking can improve consistency.
